@@ -1,0 +1,70 @@
+Colname	description	values
+activity	 Description of the activity performed by the subject for which the measurements are reported    	" WALKING,  WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING"
+subject	 id of the subject    	1 to 30
+tBodyAcc-mean()-X	the mean of the time of the body acceleration  taken from the accelerometer    x axial signal	-1 to 1
+tBodyAcc-mean()-Y	the mean of the time of the body acceleration  taken from the accelerometer    y axial signal	-1 to 1
+tBodyAcc-mean()-Z	the mean of the time of the body acceleration  taken from the accelerometer    z axial signal	-1 to 1
+tBodyAcc-std()-X	the standard deviation of the time of the body acceleration  taken from the accelerometer    x axial signal	-1 to 1
+tBodyAcc-std()-Y	the standard deviation of the time of the body acceleration  taken from the accelerometer    y axial signal	-1 to 1
+tBodyAcc-std()-Z	the standard deviation of the time of the body acceleration  taken from the accelerometer    z axial signal	-1 to 1
+tGravityAcc-mean()-X	the mean of the time of the gravity acceleration  taken from the accelerometer    x axial signal	-1 to 1
+tGravityAcc-mean()-Y	the mean of the time of the gravity acceleration  taken from the accelerometer    y axial signal	-1 to 1
+tGravityAcc-mean()-Z	the mean of the time of the gravity acceleration  taken from the accelerometer    z axial signal	-1 to 1
+tGravityAcc-std()-X	the standard deviation of the time of the gravity acceleration  taken from the accelerometer    x axial signal	-1 to 1
+tGravityAcc-std()-Y	the standard deviation of the time of the gravity acceleration  taken from the accelerometer    y axial signal	-1 to 1
+tGravityAcc-std()-Z	the standard deviation of the time of the gravity acceleration  taken from the accelerometer    z axial signal	-1 to 1
+tBodyAccJerk-mean()-X	the mean of the time of the body acceleration  taken from the accelerometer  jerk  x axial signal	-1 to 1
+tBodyAccJerk-mean()-Y	the mean of the time of the body acceleration  taken from the accelerometer  jerk  y axial signal	-1 to 1
+tBodyAccJerk-mean()-Z	the mean of the time of the body acceleration  taken from the accelerometer  jerk  z axial signal	-1 to 1
+tBodyAccJerk-std()-X	the standard deviation of the time of the body acceleration  taken from the accelerometer  jerk  x axial signal	-1 to 1
+tBodyAccJerk-std()-Y	the standard deviation of the time of the body acceleration  taken from the accelerometer  jerk  y axial signal	-1 to 1
+tBodyAccJerk-std()-Z	the standard deviation of the time of the body acceleration  taken from the accelerometer  jerk  z axial signal	-1 to 1
+tBodyGyro-mean()-X	the mean of the time of the body acceleration  taken from the Gyroscope    x axial signal	-1 to 1
+tBodyGyro-mean()-Y	the mean of the time of the body acceleration  taken from the Gyroscope    y axial signal	-1 to 1
+tBodyGyro-mean()-Z	the mean of the time of the body acceleration  taken from the Gyroscope    z axial signal	-1 to 1
+tBodyGyro-std()-X	the standard deviation of the time of the body acceleration  taken from the Gyroscope    x axial signal	-1 to 1
+tBodyGyro-std()-Y	the standard deviation of the time of the body acceleration  taken from the Gyroscope    y axial signal	-1 to 1
+tBodyGyro-std()-Z	the standard deviation of the time of the body acceleration  taken from the Gyroscope    z axial signal	-1 to 1
+tBodyGyroJerk-mean()-X	the mean of the time of the body acceleration  taken from the Gyroscope  jerk  x axial signal	-1 to 1
+tBodyGyroJerk-mean()-Y	the mean of the time of the body acceleration  taken from the Gyroscope  jerk  y axial signal	-1 to 1
+tBodyGyroJerk-mean()-Z	the mean of the time of the body acceleration  taken from the Gyroscope  jerk  z axial signal	-1 to 1
+tBodyGyroJerk-std()-X	the standard deviation of the time of the body acceleration  taken from the Gyroscope  jerk  x axial signal	-1 to 1
+tBodyGyroJerk-std()-Y	the standard deviation of the time of the body acceleration  taken from the Gyroscope  jerk  y axial signal	-1 to 1
+tBodyGyroJerk-std()-Z	the standard deviation of the time of the body acceleration  taken from the Gyroscope  jerk  z axial signal	-1 to 1
+tBodyAccMag-mean()	 time of the body acceleration magnitude taken from the accelerometer   	-1 to 1
+tBodyAccMag-std()	the standard deviation of the time of the body acceleration magnitude taken from the accelerometer   	-1 to 1
+tGravityAccMag-mean()	 time of the gravity acceleration magnitude taken from the accelerometer   	-1 to 1
+tGravityAccMag-std()	the standard deviation of the time of the gravity acceleration magnitude taken from the accelerometer   	-1 to 1
+tBodyAccJerkMag-mean()	 time of the body acceleration magnitude taken from the accelerometer  jerk 	-1 to 1
+tBodyAccJerkMag-std()	the standard deviation of the time of the body acceleration magnitude taken from the accelerometer  jerk 	-1 to 1
+tBodyGyroMag-mean()	 time of the body acceleration magnitude taken from the Gyroscope   	-1 to 1
+tBodyGyroMag-std()	the standard deviation of the time of the body acceleration magnitude taken from the Gyroscope   	-1 to 1
+tBodyGyroJerkMag-mean()	 time of the body acceleration magnitude taken from the Gyroscope  jerk 	-1 to 1
+tBodyGyroJerkMag-std()	the standard deviation of the time of the body acceleration magnitude taken from the Gyroscope  jerk 	-1 to 1
+fBodyAcc-mean()-X	the mean of the frequency of the body acceleration  taken from the accelerometer    x axial signal	-1 to 1
+fBodyAcc-mean()-Y	the mean of the frequency of the body acceleration  taken from the accelerometer    y axial signal	-1 to 1
+fBodyAcc-mean()-Z	the mean of the frequency of the body acceleration  taken from the accelerometer    z axial signal	-1 to 1
+fBodyAcc-std()-X	the standard deviation of the frequency of the body acceleration  taken from the accelerometer    x axial signal	-1 to 1
+fBodyAcc-std()-Y	the standard deviation of the frequency of the body acceleration  taken from the accelerometer    y axial signal	-1 to 1
+fBodyAcc-std()-Z	the standard deviation of the frequency of the body acceleration  taken from the accelerometer    z axial signal	-1 to 1
+fBodyAccJerk-mean()-X	the mean of the frequency of the body acceleration  taken from the accelerometer  jerk  x axial signal	-1 to 1
+fBodyAccJerk-mean()-Y	the mean of the frequency of the body acceleration  taken from the accelerometer  jerk  y axial signal	-1 to 1
+fBodyAccJerk-mean()-Z	the mean of the frequency of the body acceleration  taken from the accelerometer  jerk  z axial signal	-1 to 1
+fBodyAccJerk-std()-X	the standard deviation of the frequency of the body acceleration  taken from the accelerometer  jerk  x axial signal	-1 to 1
+fBodyAccJerk-std()-Y	the standard deviation of the frequency of the body acceleration  taken from the accelerometer  jerk  y axial signal	-1 to 1
+fBodyAccJerk-std()-Z	the standard deviation of the frequency of the body acceleration  taken from the accelerometer  jerk  z axial signal	-1 to 1
+fBodyGyro-mean()-X	the mean of the frequency of the body acceleration  taken from the Gyroscope    x axial signal	-1 to 1
+fBodyGyro-mean()-Y	the mean of the frequency of the body acceleration  taken from the Gyroscope    y axial signal	-1 to 1
+fBodyGyro-mean()-Z	the mean of the frequency of the body acceleration  taken from the Gyroscope    z axial signal	-1 to 1
+fBodyGyro-std()-X	the standard deviation of the frequency of the body acceleration  taken from the Gyroscope    x axial signal	-1 to 1
+fBodyGyro-std()-Y	the standard deviation of the frequency of the body acceleration  taken from the Gyroscope    y axial signal	-1 to 1
+fBodyGyro-std()-Z	the standard deviation of the frequency of the body acceleration  taken from the Gyroscope    z axial signal	-1 to 1
+fBodyAccMag-mean()	 frequency of the body acceleration magnitude taken from the accelerometer   	-1 to 1
+fBodyAccMag-std()	the standard deviation of the frequency of the body acceleration magnitude taken from the accelerometer   	-1 to 1
+fBodyBodyAccJerkMag-mean()	 frequency of the body acceleration magnitude taken from the accelerometer  jerk 	-1 to 1
+fBodyBodyAccJerkMag-std()	the standard deviation of the frequency of the body acceleration magnitude taken from the accelerometer  jerk 	-1 to 1
+fBodyBodyGyroMag-mean()	 frequency of the body acceleration magnitude taken from the Gyroscope   	-1 to 1
+fBodyBodyGyroMag-std()	the standard deviation of the frequency of the body acceleration magnitude taken from the Gyroscope   	-1 to 1
+fBodyBodyGyroJerkMag-mean()	 frequency of the body acceleration magnitude taken from the Gyroscope  jerk 	-1 to 1
+fBodyBodyGyroJerkMag-std()	the standard deviation of the frequency of the body acceleration magnitude taken from the Gyroscope  jerk 	-1 to 1
+		
